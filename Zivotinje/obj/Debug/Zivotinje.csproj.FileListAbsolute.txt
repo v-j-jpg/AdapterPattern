@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\RVA\Vezbe4\Vezbe\Vezba4Adapter\Zivotinje\bin\Debug\Zivotinje.exe.config
+C:\Users\Lenovo\Desktop\RVA\Vezbe4\Vezbe\Vezba4Adapter\Zivotinje\bin\Debug\Zivotinje.exe
+C:\Users\Lenovo\Desktop\RVA\Vezbe4\Vezbe\Vezba4Adapter\Zivotinje\bin\Debug\Zivotinje.pdb
+C:\Users\Lenovo\Desktop\RVA\Vezbe4\Vezbe\Vezba4Adapter\Zivotinje\obj\Debug\Zivotinje.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\RVA\Vezbe4\Vezbe\Vezba4Adapter\Zivotinje\obj\Debug\Zivotinje.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\RVA\Vezbe4\Vezbe\Vezba4Adapter\Zivotinje\obj\Debug\Zivotinje.exe
+C:\Users\Lenovo\Desktop\RVA\Vezbe4\Vezbe\Vezba4Adapter\Zivotinje\obj\Debug\Zivotinje.pdb
